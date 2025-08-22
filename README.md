@@ -1,14 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Youngkwan%20Cho&textBg=false&section=header&reversal=false&fontAlign=50&animation=fadeIn)
 
-
-<!-- 전체 폭(본문 폭 가득) -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Youngkwan%20Cho&textBg=false&section=header&reversal=false&fontAlign=50&animation=fadeIn"
     alt="header"
-    width="100%" />
+    width="900" />
 </p>
-
 
 
 <div align="center">
