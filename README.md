@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=%20Youngkwan_Cho😄&fontAlign=50&fontAlignY=50&fontSize=50&fontColor=000000)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=Youngkwan%20Cho&textBg=false&section=header&reversal=false&fontAlign=50&animation=fadeIn)
 
 <div align="center">
   
